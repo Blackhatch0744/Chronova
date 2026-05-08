@@ -148,7 +148,7 @@ lib/
 ## 🛠️ Run Locally
 
 ```bash
-cd timepilot_ai
+cd chronova
 flutter pub get
 flutter run
 ```
