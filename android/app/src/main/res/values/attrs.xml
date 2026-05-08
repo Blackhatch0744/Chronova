@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 3 color attributes -->
+    <attr name="lStar" format="float" />
+    <attr name="lStar90" format="float" />
+    <attr name="lStar95" format="float" />
+    <attr name="lStar99" format="float" />
+    <attr name="lStar100" format="float" />
+    <attr name="lStar0" format="float" />
+    <attr name="lStar10" format="float" />
+    <attr name="lStar50" format="float" />
+    <attr name="lStar50_90" format="float" />
+</resources>

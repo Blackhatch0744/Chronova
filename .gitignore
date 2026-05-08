@@ -1,0 +1,17 @@
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Android/iOS build
+android/.gradle/
+ios/Pods/
+
+# Backend
+backend/node_modules/
+backend/.env
+
+# Mac
+.DS_Store
