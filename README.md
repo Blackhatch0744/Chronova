@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/8f9542ff-1c44-4161-8135-220ae6898653
 
 **Samsung Hackathon MVP — AI-powered time management assistant**
 
-**NOTE: APK file is in the releases section
+**NOTE: APK file is in the releases section**
 
 ---
 
